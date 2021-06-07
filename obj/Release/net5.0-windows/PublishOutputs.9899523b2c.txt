@@ -1,0 +1,5 @@
+D:\Escuela\6to\seminario_de_sistema_operativos\actividades\AlanizPalomeraD01Act11\Filosofos\FilosofosComensales.exe
+D:\Escuela\6to\seminario_de_sistema_operativos\actividades\AlanizPalomeraD01Act11\Filosofos\FilosofosComensales.dll
+D:\Escuela\6to\seminario_de_sistema_operativos\actividades\AlanizPalomeraD01Act11\Filosofos\FilosofosComensales.deps.json
+D:\Escuela\6to\seminario_de_sistema_operativos\actividades\AlanizPalomeraD01Act11\Filosofos\FilosofosComensales.runtimeconfig.json
+D:\Escuela\6to\seminario_de_sistema_operativos\actividades\AlanizPalomeraD01Act11\Filosofos\FilosofosComensales.pdb
